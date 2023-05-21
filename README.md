@@ -1,1 +1,7 @@
 # Bankruption-and-Fraud-Prediction-
+Bankruptcy Prediction : 
+Bankruptcy detection is a major topic in finance. Indeed, for obvious reasons, many actors such as shareholders, managers or banks are interested in the likelihood of bankruptcy of firms. Consequently, many studies have been carried out on the topic of bankruptcy prediction.In this study, we apply several advanced machine learning techniques including Decision Tree Algorithm and a deep neural network to predict bankruptcy using easily obtainable financial data.
+Credit Card Fraud:
+Credits are typically used to refer to electronic financial transactions made without the use of physical cash. A credit card that is extensively used for online transactions is a small piece made up of thin plastic material with credit services and customer detailsFraudsters use credit cards to make unlawful transactions that result in massive losses to banks and card holders online fraudsters conduct their activities in online transactions through Internet Online fraud
+Mobile Payment fraud:
+Mobile payment systems have revolutionized the way people make transactions by offering a convenient and accessible way to pay for goods and services. However, the increased use of mobile payments has also led to an increase in fraud incidents. Fraudulent transactions in mobile payments are typically carried out by criminals who steal personal information or hack into mobile payment systems. As a result, detecting fraudulent transactions in mobile payments has become a crucial task for mobile payment providers.
